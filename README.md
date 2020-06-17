@@ -1,4 +1,3 @@
-# Test Task
 ### Project Setup
 ```
 git clone https://github.com/varvar/rubiq.git
